@@ -146,5 +146,16 @@
     "linux-aarch64": {
       "sha256": "d794cc2bd358ddd7fbf58a7f145c5c7f57dcc3094cb9239a9ed5d5900073b39b"
     }
+  },
+  "0.33.0": {
+    "darwin": {
+      "sha256": "e7ac8a62e5647de5aded3cca371f4dd6acdf8915a7b617a3e04870c1a1f7a868"
+    },
+    "linux-x86_64": {
+      "sha256": "fdfa10c9542feebf015fc359368577f3007f876bbbf5b31dff4e12796dee45b3"
+    },
+    "linux-aarch64": {
+      "sha256": "99fcb8a1f4cffbca277e91a217723510f82cf55e243d6dc7ca57d729dd88619e"
+    }
   }
 }
