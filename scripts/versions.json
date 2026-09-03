@@ -91,5 +91,71 @@
     "linux-aarch64": {
       "sha256": "f406f2ec7a1f2c8c82a02754ae78e56c3a16fcf688bf92bd20917b2837544a82"
     }
+  },
+  "0.30.0": {
+    "darwin": {
+      "sha256": "66d8c24754cb47e9ffe79f56b82b44bfb12b36ee7e4684dc1d22606cefca4469"
+    },
+    "linux-x86_64": {
+      "sha256": "841706ee200fb8ff276942d527d1050b57332d5f159624787ca0c4f140097834"
+    },
+    "linux-aarch64": {
+      "sha256": "40f7f3f38891ff2b150b2902f090c5d3704951dc79dd1e0b5409b0e9df6b2cb5"
+    }
+  },
+  "0.30.1": {
+    "darwin": {
+      "sha256": "bf5b676c93b5af438db629efb127a6065af303c3176ffdf718fcce407cfa04da"
+    },
+    "linux-x86_64": {
+      "sha256": "ed75acb2884df997199079d324b8baab1244c18ea0203b700ed37852f8e6c844"
+    },
+    "linux-aarch64": {
+      "sha256": "07c4cce1805ba3f2e0072ac4cfde49888f8b895178f6e4f224e27c78cc807c92"
+    }
+  },
+  "0.30.2": {
+    "darwin": {
+      "sha256": "cda6fbb7be89f8ae596b3acefb4c5ae0a4aa354e7a7a547e1b0e1da07ec5dbe8"
+    },
+    "linux-x86_64": {
+      "sha256": "2695930e0052c56a751339cead08e6f4a57ed8c7105fa51d738da83fba6520dc"
+    },
+    "linux-aarch64": {
+      "sha256": "f140854c4626d7f204bf7b737e437be491c96d9d66382eed16f91ccddcae314e"
+    }
+  },
+  "0.31.0": {
+    "darwin": {
+      "sha256": "eac977b3c1f4457144977229ad242d979707ae6a2ea36f1bc86d8c7190ed403a"
+    },
+    "linux-x86_64": {
+      "sha256": "253851c8182911d7105e39a5ce04d4844caa76d6e304e9da1ce360d782d5d6e9"
+    },
+    "linux-aarch64": {
+      "sha256": "583024962f67957d9aad014f26411cbb00a74debbf24181acb4d7ed229abe91e"
+    }
+  },
+  "0.32.0": {
+    "darwin": {
+      "sha256": "a98a772e0dfce2f1cd6fb5ab3a3dc17d49eb7ceec78eef9245899c203d00058d"
+    },
+    "linux-x86_64": {
+      "sha256": "32ad420441083c0e7cac81ebe0784808853476fe4effede4f5bb3a974f6cbcf1"
+    },
+    "linux-aarch64": {
+      "sha256": "d794cc2bd358ddd7fbf58a7f145c5c7f57dcc3094cb9239a9ed5d5900073b39b"
+    }
+  },
+  "0.33.0": {
+    "darwin": {
+      "sha256": "e7ac8a62e5647de5aded3cca371f4dd6acdf8915a7b617a3e04870c1a1f7a868"
+    },
+    "linux-x86_64": {
+      "sha256": "fdfa10c9542feebf015fc359368577f3007f876bbbf5b31dff4e12796dee45b3"
+    },
+    "linux-aarch64": {
+      "sha256": "99fcb8a1f4cffbca277e91a217723510f82cf55e243d6dc7ca57d729dd88619e"
+    }
   }
 }
